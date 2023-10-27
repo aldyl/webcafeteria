@@ -1,0 +1,16 @@
+.u-body {
+    background-color: #fdecd2;
+    align-content: center;
+    text-align: center;
+}
+
+.u-clearfix:after,
+.u-clearfix:before {
+  content: '';
+  display: table;
+}
+.u-clearfix:after {
+  clear: both;
+}
+
+
