@@ -1,7 +1,6 @@
 .u-body {
-
     background-image: linear-gradient(#fdecd2), rgba(255, 255, 255, 0.5),
-                  url("bg.png");
+                  url("./bg.png");
     align-content: center;
     text-align: center; 
     background-repeat: repeat;
