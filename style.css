@@ -1,7 +1,10 @@
 .u-body {
+    background-color: #fdecd2;
+    background-image: linear-gradient(#fdecd2), rgba(255, 255, 255, 0.5),
+                  url("bg.png");
     align-content: center;
-    text-align: center;
-    background-image:'bg.png';
+    text-align: center; 
+    background-repeat: repeat;
 }
 
 .u-clearfix:after,
