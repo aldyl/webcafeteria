@@ -1,7 +1,7 @@
 .u-body {
-    background-color: #fdecd2;
     align-content: center;
     text-align: center;
+    background-image:'bg.png';
 }
 
 .u-clearfix:after,
