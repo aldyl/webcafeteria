@@ -26,27 +26,15 @@ h2 {
   font-size: 16pt; }
 
 .salimentos { 
-  color: #C55811;
-  font-style: normal; 
-  font-weight: normal;
-  text-decoration: none;
   text-align: left;
   font-size: 14pt; }
 
 .subalimentos { 
-    color: #C55811;
-    font-style: normal; 
-    font-weight: normal;
-    text-decoration: none;
     text-align: right;
     font-size: 14pt; }
 
 h3 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
 h4 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
-
-p { color: #C55811; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; margin:0pt; }
-
-
 
 .s4 { color: #C55811; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
 .s5 { color: #2D75B5; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
