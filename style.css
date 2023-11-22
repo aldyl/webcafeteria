@@ -16,7 +16,7 @@ h1 {
   font-style: normal;
   font-weight: normal;
   text-decoration: dotted;
-  font-size: 30pt; }
+  font-size: 24pt; }
 
 h2 { 
   color: #C55811;
@@ -34,7 +34,7 @@ h2 {
 .subalimentos {
   color: #C55811;
     text-align: right;
-    font-size: 14pt; }
+    font-size: 12pt; }
 
 h3 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
 h4 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
