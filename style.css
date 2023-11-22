@@ -27,6 +27,7 @@ h2 {
 
 .salimentos { 
   color: #C55811;
+  border-left-width: 20;
   text-align: left;
   font-size: 14pt; }
 
