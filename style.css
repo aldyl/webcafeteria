@@ -6,6 +6,10 @@
   font-family: 'Lobster';
 }
 
+body {
+  align-content: center;
+}
+
 .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
 .s2 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 1pt; }
 .s3 { color: #C55811; font-family:"Ink Free"; font-style: normal; font-weight: normal; text-decoration: none; font-size: 16pt; }
