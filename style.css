@@ -33,6 +33,13 @@ h2 {
     text-align: right;
     font-size: 10pt; }
 
-h3 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+h3 { 
+      color: #2D75B5;
+      font-style: italic;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 18pt; }
 
-h4 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+h4 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+
+h5 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
