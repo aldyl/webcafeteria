@@ -23,13 +23,15 @@ h2 {
   font-style: italic;
   font-weight: bold;
   text-decoration: none;
-  font-size: 16pt; }
+  font-size: 18pt; }
 
 .salimentos { 
+  color: #C55811;
   text-align: left;
   font-size: 14pt; }
 
-.subalimentos { 
+.subalimentos {
+  color: #C55811;
     text-align: right;
     font-size: 14pt; }
 
