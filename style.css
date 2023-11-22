@@ -8,6 +8,7 @@
 
 body {
   align-content: center;
+  text-align: center;
 }
 
 .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
@@ -22,6 +23,7 @@ h1 { color: #2D75B5; font-family:"Ink Free"; font-style: normal; font-weight: bo
 h4 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
 .s7 { color: #7D5F00; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
 .s8 { color: #7D5F00; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+
 h3 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
 .s9 { color: #375522; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
 
