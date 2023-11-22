@@ -1,6 +1,5 @@
 .container {
   display: flex;
-  align-items: center;
 }
 
 .u-font-lobster {
@@ -14,7 +13,6 @@ body {
 
 h1 { 
   color: #2D75B5;
-  font-family:"Lobster";
   font-style: normal;
   font-weight: normal;
   text-decoration: dotted;
@@ -22,7 +20,6 @@ h1 {
 
 h2 { 
   color: #C55811;
-  font-family:"Lobster";
   font-style: italic;
   font-weight: bold;
   text-decoration: none;
@@ -30,7 +27,6 @@ h2 {
 
 .salimentos { 
   color: #C55811;
-  font-family:"Lobster";
   font-style: normal; 
   font-weight: normal;
   text-decoration: none;
@@ -39,7 +35,6 @@ h2 {
 
 .subalimentos { 
     color: #C55811;
-    font-family:"Lobster";
     font-style: normal; 
     font-weight: normal;
     text-decoration: none;
