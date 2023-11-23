@@ -8,11 +8,15 @@
 
 .salimentos { 
   text-align: left;
-  font-size: 14pt; }
+}
 
 .subalimentos {
     text-align: right;
-    font-size: 10pt; }
+}
+
+.variedades {
+  text-align: justify;
+}
 
 body {
   align-content: center;
@@ -48,5 +52,10 @@ h2 {
 
 h3 { 
       font-style: italic;
-      font-weight: bold;
+      font-weight: normal;
       font-size: 14pt; }
+
+h4 { 
+        font-style: italic;
+        font-weight: normal;
+        font-size: 10pt; }
