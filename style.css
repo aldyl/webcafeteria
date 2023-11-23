@@ -6,26 +6,6 @@
   font-family: 'Lobster';
 }
 
-body {
-  align-content: center;
-  text-align: center;
-  margin: auto;
-}
-
-h1 { 
-  color: #2D75B5;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: dotted;
-  font-size: 24pt; }
-
-h2 { 
-  color: #C55811;
-  font-style: italic;
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 18pt; }
-
 .salimentos { 
   text-align: left;
   font-size: 14pt; }
@@ -34,13 +14,39 @@ h2 {
     text-align: right;
     font-size: 10pt; }
 
+body {
+  align-content: center;
+  text-align: center;
+  margin: auto;
+}
+
+.blue {
+  color: #2D75B5;
+}
+
+.orange {
+  color: #C55811;
+}
+
+.red {
+  color: rgb(255, 0, 0); 
+}
+
+.green {
+  color: #65dd1f; 
+}
+
+h1 { 
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24pt; }
+
+h2 { 
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18pt; }
+
 h3 { 
-      color: #2D75B5;
       font-style: italic;
       font-weight: bold;
-      text-decoration: none;
-      font-size: 18pt; }
-
-h4 { color: #375522; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
-
-h5 { color: #3B861F; font-family:"Ink Free"; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+      font-size: 14pt; }
