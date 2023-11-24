@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   margin-left: 2%;
-  margin-right: 2%;
+  margin-right: 10%;
+  border: #2D75B5;
 }
 
 .u-font-lobster {
